@@ -74,7 +74,7 @@ module.exports = [
     text: '工作',
     link: '/work/',
     items: [
-      { text: '个人', link: '/pages/ce1532/',},
+      { text: '个人', link: '/pages/236765/',},
       { text: '公司', link: '/pages/962ae8/',},
     
     ],
@@ -103,11 +103,11 @@ module.exports = [
     items: [
       {
         text: '后端学习',
-        link: '/pages/d19b60/',
+        link: '/pages/a0fb53/',
       },
       {
         text: '前端学习',
-        link: '/pages/2b5ba9/',
+        link: '/pages/c0ac49/',
       },
       {
         text: '软件资源',
