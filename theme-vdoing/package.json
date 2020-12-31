@@ -5,13 +5,13 @@
   "author": {
     "name": "rainze-Lee"
   },
-  "homepage": "https://github.com/Ezuy-Lee/blog",
+  "homepage": "https://github.com/Ezuy-Lee/Rainze-Blog",
   "bugs": {
-    "url": "https://github.com/Ezuy-Lee/blog/issues"
+    "url": "https://github.com/Ezuy-Lee/Rainze-Blog/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ezuy-Lee/blog.git"
+    "url": "git+https://github.com/Ezuy-Lee/Rainze-Blog.git"
   },
   "dependencies": {
     "@better-scroll/core": "^2.0.0-beta.6",
@@ -41,7 +41,7 @@
   "license": "MIT",
   "main": "index.js",
   "maintainers": [{
-    "name": "rainze-Lee",
+    "name": "Rainze-Lee",
     "email": "619147075@qq.com"
   }]
 }
