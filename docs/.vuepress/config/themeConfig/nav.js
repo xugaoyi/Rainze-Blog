@@ -8,11 +8,11 @@ module.exports = [
       // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
       {
         text: 'Java基础篇',
-        link: '/pages/ca89eca8adeba5f4/',
+        link: '/pages/6d04efbdfa185c88916a6edec2b5bec9/',
       },
       {
         text: 'Java框架篇',
-        link: '/pages/d0c299/',
+        link: '/pages/6b89cf0a450c5012bb4bdc12eea6bf40/',
       },
       {
         text: 'CVS版本控制',
@@ -20,20 +20,9 @@ module.exports = [
       },
       {
         text: '数据库和缓存',
-        link: '/database/',
+        link: '/pages/2581bd/',
         items: [
-          {
-            text: '关系型数据库',
-            link: '/pages/2581bd/',
-          },
-          {
-            text: 'NoSQL数据库',
-            link: '/pages/4205b8/',
-          },
-          {
-            text: '更多数据库',
-            link: '/pages/bc6f38/',
-          },
+          
         ]
       },
       {
