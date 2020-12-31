@@ -8,16 +8,16 @@ module.exports = [
       // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
       {
         text: 'Java基础篇',
-        link: '/',
+      
        
       },
       {
         text: 'Java框架篇',
-        link: '/',
+       
       },
       {
         text: 'CVS版本控制',
-        link: '',
+        
       },
       {
         text: '数据库和缓存',
