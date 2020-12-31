@@ -80,7 +80,7 @@ module.exports = {
     // 页脚信息
     createYear: 2020, // 博客创建年份
     copyrightInfo:
-      'Rainze-Lee | <a href="https://github.com/Ezuy-Lee/blog/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'Rainze-Lee | <a href="https://github.com/Ezuy-Lee/Rainze-Blog/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   },
   htmlModules // 插入hmtl(广告)模块
 }
