@@ -21,7 +21,7 @@ module.exports = [
       },
       {
         text: '数据库和缓存',
-        link: '/pages/bd16e5/',
+
         items: [
           {
             text: '关系型数据库',
@@ -86,8 +86,8 @@ module.exports = [
     text: '工作',
     link: '/work/',
     items: [
-      { text: '个人', link: '/pages/9a7ee40fc232253e/' },
-      { text: '公司', link: '/pages/4c778760be26d8b3/' },
+      { text: '个人', },
+      { text: '公司', },
     
     ],
   },
@@ -98,7 +98,7 @@ module.exports = [
       {
         text: '在线工具',
        items:[
-        { text: '资源', link: '/pages/eee83a9211a70f9d/' },
+      
        ]
       },
       {
@@ -134,9 +134,6 @@ module.exports = [
     text: '更多',
     link: '/more/',
     items: [
-      { text: '学习阅读', link: '/pages/f2a556/' },
-      { text: '面试经验', link: '/pages/aea6571b7a8bae86/' },
-      { text: '心情杂谈', link: '/pages/2d615df9a36a98ed/' },
       { text: '友情链接', link: '/friends/' },
     ],
   },
